@@ -1,0 +1,94 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+  }
+  
+  /* Language Switch */
+  .language-switch {
+    text-align: right;
+    padding: 10px;
+  }
+  
+  /* Header styling */
+  #header {
+    text-align: center;
+    padding: 20px;
+    background: #004aad;
+    color: white;
+  }
+  nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  /* Section styling */
+  section {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+    margin-top: 20px;
+  }
+  
+  /* Product and Sister concern Styling */
+  .product-category, .sister-concern-details {
+    background: #ffffff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Gallery Section */
+  .picture img {
+    width: 100%;
+    max-width: 200px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Contact Section*/
+  .contact-details {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-details p {
+    margin: 10px 0;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .contact-details a {
+    color: #004aad;
+    text-decoration: none;
+  }
+  
+  .contact-details a:hover {
+    text-decoration: underline;
+  }
+  
+
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: white;
+    margin-top: 20px;
+  }
+  

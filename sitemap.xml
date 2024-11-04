@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bluespacejp.com/</loc>
-    <lastmod>2024-11-20</lastmod>  <!-- Update this date when you change the site -->
+    <lastmod>2024-11-21</lastmod>  <!-- Update the last modification date -->
+  </url>
+  <url>
+    <loc>https://bluespacejp.com/en/</loc>
+    <lastmod>2024-11-21</lastmod>  <!-- Update the last modification date -->
+    <xhtml:link 
+        rel="alternate"
+        hreflang="ja"
+        href="https://bluespacejp.com/" />
   </url>
 </urlset>
